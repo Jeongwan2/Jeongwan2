@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 ### Hi I'm Jeongwan!
 ### (2020.03~)PKNU/Information & Communication Engineering 
+
+### ☎️ Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:jwk5206@pukyong.ac.kr)](mailto:jwk5206@pukyong.ac.kr)
 
 ### ⎇ Tech
