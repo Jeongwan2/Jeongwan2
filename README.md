@@ -54,10 +54,11 @@ Here are some ideas to get you started:
 ![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Jeongwan2)
 
 ### ✔️ GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeongwan2&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeongwan2&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
 ### ✔️ Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongwan2&layout=compact&theme=tokyonight)
+
 
 #### Learning & Roadmap
 - LLM 기반 추천 시스템(cross-domain, unified domain)
