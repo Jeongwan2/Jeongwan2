@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi I'm Jeongwan!
 ### (2020.03~)PKNU/Information & Communication Engineering 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:jwk5206@pukyong.ac.kr)](mailto:jwk5206@pukyong.ac.kr)
 
 ### ⎇ Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -26,17 +27,11 @@ Here are some ideas to get you started:
 
 
 ### Interests
- **AI & Machine Learning**  
-  <img src="https://img.shields.io/badge/Deep%20Learning-000000?style=flat&logo=pytorch&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=scikitlearn&logoColor=white"/>  
-  
-**추천 시스템(Recommendation Systems)**  
-  <img src="https://img.shields.io/badge/Recommendation%20Model-0078D4?style=flat&logo=google&logoColor=white"/>  
-
-
-**사용자 행동 분석 & 패턴 모델링(HMM)**  
-  <img src="https://img.shields.io/badge/HMM-5C2D91?style=flat&logo=readthedocs&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Data%20Analysis-4B8BBE?style=flat&logo=python&logoColor=white"/>  
+| Category | Keywords |
+| :--- | :--- |
+| **AI & ML** | ![DL](https://img.shields.io/badge/Deep%20Learning-000000?style=flat&logo=pytorch&logoColor=white) ![ML](https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=scikitlearn&logoColor=white) |
+| **Recommendation** | ![RecSys](https://img.shields.io/badge/Recommendation%20Model-0078D4?style=flat&logo=google&logoColor=white) |
+| **Data Analysis** | ![HMM](https://img.shields.io/badge/HMM-5C2D91?style=flat&logo=readthedocs&logoColor=white) ![Data](https://img.shields.io/badge/Data%20Analysis-4B8BBE?style=flat&logo=python&logoColor=white) |
 
 ### Projects
 ### 부산 국밥집 추천 시스템 (Open Source Project)
